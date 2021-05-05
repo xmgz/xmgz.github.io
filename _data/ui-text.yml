@@ -1904,6 +1904,58 @@ he: &DEFAULT_HE
   back_to_top                : "חזרה להתחלה"
 he-IL:
   <<: *DEFAULT_HE
+  
+# Galician (gl)
+gl: &DEFAULT_GL
+  skip_links                 : "Omitir ligazóns"
+  skip_primary_nav           : "Omitir menú principal"
+  skip_content               : "Omitir contido "
+  skip_footer                : "Omitir pé de páxina"
+  page                       : "Páxina"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Seguinte"
+  breadcrumb_home_label      : "Inicio"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Activar menú"
+  search_label               : "Activar busca"
+  toc_label                  : "Nesta páxina"
+  ext_link_label             : "Ligazón directa"
+  less_than                  : "menos de "
+  minute_read                : "minutos de lectura"
+  share_on_label             : "Compartir en"
+  meta_label                 :
+  tags_label                 : "Etiquetas:"
+  categories_label           : "Categorías:"
+  date_label                 : "Actualizado:"
+  comments_label             : "Comentar"
+  comments_title             : "Comentarios"
+  more_label                 : "Ler máis"
+  related_label              : "Pode ser do teu interese"
+  follow_label               : "Seguir:"
+  feed_label                 : "Fonte"
+  powered_by                 : "Grazas a"
+  website_label              : "Sitio web"
+  email_label                : "Email"
+  recent_posts               : "Publicacións recentes"
+  undefined_wpm              : "Parámetro words_per_minute non definido en _config.yml"
+  comment_form_info          : "Non se publicará o teu enderezo. Os campos requeridos están indicados."
+  comment_form_comment_label : "Comentar"
+  comment_form_md_info       : "Soporta estilo Markdown."
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Enderezo email"
+  comment_form_website_label : "Sitio web (optativo)"
+  comment_btn_submit         : "Enviar comentario"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "Grazas polo teu comentario! Aparecerá na páxina unha vez aprobado."
+  comment_error_msg          : "Lamentámolo, mais algo fallou no envío. Comproba que tódolos campos requeridos están cubertos."
+  loading_label              : "Cargando..."
+  search_label_text          : "Escribe a palabra a buscar..."
+  search_placeholder_text    : "Escribe a palabra a buscar..."
+  search_algolia_no_results  : "Sen resultados"
+  results_found              : "Resultado(s) atopado(s)"
+  back_to_top                : "Ir arriba"
+gl-ES:
+  <<: *DEFAULT_GL
 
 # Another locale
 # --------------
