@@ -1,0 +1,33 @@
+# /_data/authors.yml
+
+Kabra:
+  name        : "kabra"
+  bio         : "Admin"
+  avatar      : "/assets/images/kabra.png"
+
+Agricultora:
+  name        : "Agricultora M"
+  bio         : "planto plantas."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Cociñeira:
+  name        : "Cociñeira M"
+  bio         : "cociño comida"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"

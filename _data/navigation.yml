@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "KALABRADAS"
+    url: https://kalabradas.club/
+    description: "inicio do sitio web"
+  - title: "Acerca de"
+    url: https://kalabradas.club/about/
+    description: "unhas palabras acerca das autoras"
+  - title: "Contacto"
+    url: /about/
+    description: "Contacto"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

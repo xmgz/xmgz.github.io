@@ -94,8 +94,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Agricultora"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Kabra et al."
+  avatar           : "/assets/images/kabra.png"
   bio              : "súper kabra."
   location         : "Galiza"
   email            :
@@ -269,6 +269,15 @@ compress_html:
 
 # Defaults
 defaults:
+## para páxinas _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: true
+      read_time: false
+      comments: false 
   # _posts
   - scope:
       path: ""
@@ -278,5 +287,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true

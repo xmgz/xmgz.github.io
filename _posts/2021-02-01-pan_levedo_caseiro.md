@@ -6,7 +6,8 @@ comments:
   fediusername: xosem
   fediid: 106158589675457766
 date: 2021-02-01 20:00:00
-#layout: post
+layout: single
+classes: wide
 #navigation: true
 categories:
 - cociñeira
