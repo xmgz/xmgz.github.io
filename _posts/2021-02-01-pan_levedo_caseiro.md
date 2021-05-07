@@ -1,5 +1,5 @@
 ---
-author: cociñeira
+author: Cociñeira
 comments:
   show: false
   fediHost: toot.site

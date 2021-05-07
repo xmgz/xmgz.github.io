@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "KALABRADAS"
-    url: https://kalabradas.club/
+  - title: "KALABRADAS BLOG"
+    url: https://kalabradas.club/blog
     description: "inicio do sitio web"
   - title: "Acerca de"
     url: https://kalabradas.club/about/
     description: "unhas palabras acerca das autoras"
   - title: "Contacto"
     url: /about/
-    description: "Contacto"
+    description: "outro elemento do menú"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
