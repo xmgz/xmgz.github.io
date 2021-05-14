@@ -1,10 +1,13 @@
 # main links
 main:
-  - title: "KALABRADAS BLOG"
+  - title: "BLOG"
     url: https://kalabradas.club/blog
-    description: "inicio do sitio web"
+    description: "blog de kalabradas"
+  - title: "Cultiva e Come <i class="fas fa-folder-open"></i>"
+    url: /about/
+    description: "recuperando os artigos de cultivaecome.blogspot.com"
   - title: "Acerca de"
-    url: https://kalabradas.club/about/
+    url: https://kalabradas.club/categories/blog/#cultivaecome
     description: "unhas palabras acerca das autoras"
   - title: "Contacto"
     url: /about/

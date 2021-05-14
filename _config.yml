@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "gl"
 title                    : "KALABRADAS"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "subtítulo a editar" # site tagline that appears below site title in masthead
 name                     : "kabra"
 description              : "o meu sitio na rede internet."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /blog # the subpath of your site, e.g. "/blog" - MOVINO PARA TER UN HOME SEN "pagination". Necesario para categorías e etiquetas.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -208,10 +208,10 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 8 # amount of posts to show, modificar según conveña ao layout
 ## onde facemos a "paxinación", só admite unha ruta
 #paginate_path: /page:num/ #por defecto
-paginate_path: /blog/page:num/
+paginate_path: /blog/page:num/ # cambiado ao mover a /blog
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -244,10 +244,10 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /blog/categories/ #engadido /blog
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /blog/tags/ #engadido /blog
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -289,5 +289,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: false
+      share: true #false; para desactivar. Modificase en _includes/social-share.html
       related: true

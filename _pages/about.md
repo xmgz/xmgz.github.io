@@ -1,8 +1,20 @@
 ---
 Author: kabra
 permalink: /about/
-layout: single
+layout: pages #buscar o que mellor se axeite (single, etc.)
 classes: wide
 ---
 
-Acerca de e información de contacto
+## Acerca de
+
+
+*Coido a terra que me da*
+
+*alimentos que cociño para*
+
+*correr polos campos e saltar entre penedos*
+
+## Contacto
+
+kabra /[at/] ynh.kalabradas.club (xmpp & email)
+

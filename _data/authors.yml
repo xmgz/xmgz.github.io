@@ -4,6 +4,16 @@ Kabra:
   name        : "kabra"
   bio         : "Admin"
   avatar      : "/assets/images/kabra.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kabra@ynh.kalabradas.club"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kalabradas.club"
+    - label: "Fediverso"
+      icon: "fab fa-mastodon fa-mastodon-square"
+      url: "https://mastodon.social/@kabra"  
 
 Agricultora:
   name        : "Agricultora M"
@@ -23,11 +33,11 @@ Agricultora:
 Cociñeira:
   name        : "Cociñeira M"
   bio         : "cociño comida"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/lovecooking.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon fa-mastodon-square"
+      url: "https://mastodon.social/@cociñeira"
