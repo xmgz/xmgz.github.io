@@ -1,7 +1,7 @@
 ---
 Author: kabra
 permalink: /about/
-layout: pages #buscar o que mellor se axeite (single, etc.)
+#layout: single #esta cóllea de da configuración por defecto para pages
 classes: wide
 ---
 
@@ -16,5 +16,5 @@ classes: wide
 
 ## Contacto
 
-kabra /[at/] ynh.kalabradas.club (xmpp & email)
+kabra /[at/] ynh.kalabradas.club (xmpp & email <i class="fas fa-fw fa-envelope-square"></i>)
 
