@@ -22,7 +22,7 @@ subtitle                 : "subtítulo a editar" # site tagline that appears bel
 name                     : "kabra"
 description              : "o meu sitio na rede internet."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /blog # the subpath of your site, e.g. "/blog" - MOVINO PARA TER UN HOME SEN "pagination". Necesario para categorías e etiquetas.
+baseurl                  : # the subpath of your site, e.g. "/blog" - MOVINO PARA TER UN HOME SEN "pagination". Necesario para categorías e etiquetas.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
