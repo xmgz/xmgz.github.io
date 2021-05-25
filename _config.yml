@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "gl"
 title                    : "KALABRADAS"
 title_separator          : "-"
-subtitle                 : "subtítulo a editar" # site tagline that appears below site title in masthead
+subtitle                 : "blog personal feito a varias mans" # site tagline that appears below site title in masthead
 name                     : "kabra"
-description              : "o meu sitio na rede internet."
+description              : "outro sitio na rede internet."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" - MOVINO PARA TER UN HOME SEN "pagination". Necesario para categorías e etiquetas.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
