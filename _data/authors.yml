@@ -2,7 +2,7 @@
 
 Kabra:
   name        : "kabra"
-  bio         : "Admin"
+  bio         : "Admin."
   avatar      : "/assets/images/kabra.png"
   links:
     - label: "Email"
@@ -30,8 +30,20 @@ Agricultora:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
 
-Cociñeira:
+Cociñeira1:
   name        : "Cociñeira M"
+  bio         : "cociño comida"
+  avatar      : "/assets/images/lovecooking.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon fa-mastodon-square"
+      url: "https://mastodon.social/@cociñeira"
+      
+Cociñeira2:
+  name        : "Cociñeira S"
   bio         : "cociño comida"
   avatar      : "/assets/images/lovecooking.jpg"
   links:

@@ -1,5 +1,5 @@
 ---
-author: Cociñeira
+author: 'Cociñeira M'
 comments:
   show: false
   fediHost: toot.site
@@ -8,7 +8,11 @@ comments:
 date: 2021-02-01 20:00:00
 layout: single
 classes: wide
-#navigation: true
+header:
+  image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
+  caption: "Crédito: [**Unsplash**-Tamara Gak](https://unsplash.com/photos/SQLOsc0HGDI)"
+  image_description: "masa de pan"
+navigation: true
 categories:
 - cociñeira
 - fediverso

@@ -1,8 +1,8 @@
 ---
 Author: kabra
 permalink: /about/
-#layout: single #esta cóllea de da configuración por defecto para pages
-classes: wide
+layout: single 
+#classes: wide
 ---
 
 ## Acerca de
