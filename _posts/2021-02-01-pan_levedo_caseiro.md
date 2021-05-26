@@ -1,5 +1,6 @@
 ---
 author: Cociñeira2
+title: Pan feito na casa con lévedo natural.
 comments:
   show: false
   fediHost: toot.site
@@ -11,7 +12,7 @@ classes: wide
 header:
   image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
   caption: "Crédito: [**Unsplash**-Tamara Gak](https://unsplash.com/photos/SQLOsc0HGDI)"
-  image_description: "masa de pan"
+  image_description: "masa de pan xenérica, dunha foto de unsplash"
 navigation: true
 categories:
 - cociñeira
@@ -22,9 +23,10 @@ tags:
 - receita
 - lévedo
 - pan
+- pan artesán
 ---
 
-# Pan con lévedo feito na casa
+### Pan con lévedo feito na casa
 
 ![molete](https://i.imgur.com/ZjPZM4u.png)
 

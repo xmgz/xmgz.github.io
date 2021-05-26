@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "gl"
 title                    : "KALABRADAS"
 title_separator          : "-"
-subtitle                 : "blog personal feito a varias mans" # site tagline that appears below site title in masthead
+subtitle                 : "blog feito a varias mans" # site tagline that appears below site title in masthead
 name                     : "kabra"
 description              : "outro sitio na rede internet."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

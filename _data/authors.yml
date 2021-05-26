@@ -45,7 +45,7 @@ Cociñeira1:
 Cociñeira2:
   name        : "Cociñeira S"
   bio         : "cociño comida"
-  avatar      : "/assets/images/lovecooking.jpg"
+  avatar      : "/assets/images/cociñeira2.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
