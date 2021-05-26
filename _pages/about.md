@@ -5,9 +5,6 @@ layout: single
 #classes: wide
 ---
 
-## Acerca de
-
-
 *Coido a terra que me da*
 
 *alimentos que cociño para*

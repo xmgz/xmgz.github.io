@@ -3,15 +3,15 @@ main:
   - title: "BLOG"
     url: https://kalabradas.club/blog
     description: "blog de kalabradas"
-  - title: "Cultiva e Come. Arquivo."
+  - title: "Cultiva e Come"
     url: https://kalabradas.club/categories/blog/#cultivaecome
     description: "recuperando os artigos de cultivaecome.blogspot.com"
-  - title: "Acerca de"
-    url: /about/
-    description: "unhas palabras acerca das autoras."
+  - title: "Buscar / Search"
+    url: /buscar/
+    description: "buscar artigos e contidos."
   - title: "Contacto"
     url: /about/
-    description: "outro elemento do menú."
+    description: "unhas palabras acerca do blgo."
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
