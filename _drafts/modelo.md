@@ -17,6 +17,7 @@ classes: wide
   #image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
   #caption: "Crédito: [**Unsplash**-Tamara Gak](https://unsplash.com/photos/SQLOsc0HGDI)"
   #image_description: "masa de pan"
+  #teaser: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg #imaxe para a grella na lista
 navigation: true #menú superior
 categories: #as que correspondan
 - cociñeira
