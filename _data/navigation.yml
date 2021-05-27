@@ -4,7 +4,7 @@ main:
     url: https://kalabradas.club/blog
     description: "blog de kalabradas"
   - title: "Cultiva e Come"
-    url: https://kalabradas.club/categories/blog/#cultivaecome
+    url: https://kalabradas.club/cultivaecome/
     description: "recuperando os artigos de cultivaecome.blogspot.com"
   - title: "Buscar / Search"
     url: /buscar/
