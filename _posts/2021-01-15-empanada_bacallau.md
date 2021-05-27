@@ -1,5 +1,5 @@
 ---
-author: Cociñeira1
+author: Cociñeira2
 comments:
   show: false
   fediHost: toot.site
@@ -27,9 +27,6 @@ tags:
 # Empanada de bacallau
 
 
-podes ver todas as fotos aquí https://imgur.com/a/0ZUAsrW para saber cómo é cada unha
-
-Non modifiques o código das fotos, pero si queres podes cambiar a orde (corta e pega sen medo)
 
 ## Ingredientes
 
@@ -86,3 +83,4 @@ _empanada recén saída do forno, cunha cor dourada característica_
 
 _a comer!_
 
+fotos <https://imgur.com/a/0ZUAsrW> 

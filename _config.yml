@@ -208,7 +208,7 @@ sass:
 
 # Outputting
 #permalink: /:categories/:title/ #default
-permalink: /bloga/:title/ #cambiado
+permalink: /blog/:title/ #cambiado
 paginate: 8 # amount of posts to show, modificar según conveña ao layout
 ## onde facemos a "paxinación", só admite unha ruta
 #paginate_path: /page:num/ #por defecto
@@ -264,6 +264,13 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+## collection para meter os artigos de Cultiva e Come
+collections:
+  cultivaecome:
+    output: true
+    permalink: /:collection/:path/
+
+
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -294,3 +301,12 @@ defaults:
       comments: # true
       share: true #false; para desactivar. Modificase en _includes/social-share.html
       related: true
+      
+  # _cultivaecome
+  - scope:
+      path: ""
+      type: cultivaecome
+    values:
+      layout: single
+      author_profile: false
+      share: false

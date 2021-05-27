@@ -1,6 +1,6 @@
 ---
 title: "Artigos por ano"
-permalink: /todos/
+permalink: /blog/todos/
 layout: posts
 author_profile: true
 --- 
