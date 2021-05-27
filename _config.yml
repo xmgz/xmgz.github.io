@@ -24,7 +24,7 @@ description              : "outro sitio na rede internet."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" - MOVINO PARA TER UN HOME SEN "pagination". Necesario para categorías e etiquetas.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/solorigami.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -207,7 +207,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/ #default
+permalink: /bloga/:title/ #cambiado
 paginate: 8 # amount of posts to show, modificar según conveña ao layout
 ## onde facemos a "paxinación", só admite unha ruta
 #paginate_path: /page:num/ #por defecto
@@ -247,7 +248,9 @@ category_archive:
   path: /blog/categories/ #engadido /blog
 tag_archive:
   type: liquid
-  path: /blog/tags/ #engadido /blog
+  #path: /blog/tags/ #engadido /blog
+  path: /blog/etiquetas/
+  
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

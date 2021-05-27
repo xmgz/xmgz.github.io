@@ -13,5 +13,5 @@ layout: single
 
 ## Contacto
 
-kabra /[at/] ynh.kalabradas.club (xmpp & email <i class="fas fa-fw fa-envelope-square"></i>)
+<i class="fas fa-fw fa-envelope-square"></i> kabra @ tutamail.com 
 
