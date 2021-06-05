@@ -1,5 +1,6 @@
 ---
 author: Cociñeira1
+title: Torta de chocolate branco
 comments:
   show: false
   fediHost: toot.site
@@ -8,9 +9,11 @@ comments:
 date: 2021-03-15 20:00:00
 layout: single
 classes: wide
-#header: #imaxe a incluír na cabeceira. Móstrase a tamaño completo (coidado coa altura). DESACTIVADA POR DEFECTO.
-  #image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
-  #caption: "Crédito: [**Unsplash**-Tamara Gak](https://unsplash.com/photos/SQLOsc0HGDI)"
+header: # repostería
+  image: /assets/images/reposteria.jpg
+  caption: "Crédito: [**Unsplash**-Debby Hudson](https://unsplash.com/photos/O-bFIdjyDOg)"
+  image_description: "facendo lambonadas"
+  teaser: /assets/images/reposteria.jpg #imaxe para a grella na lista
 navigation: true
 categories:
 - cociñeira
@@ -26,7 +29,7 @@ tags:
 - postre
 ---
 
-##  Tarta de chocolate blanco y gelatina de 2 melones
+##  Torta de chocolate branco y gelatina de 2 melones
 
 **Fonte:** Visita [La cocina de Frabisa][1]
 

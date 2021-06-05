@@ -1,5 +1,6 @@
 ---
 author: Cociñeira2
+title: Empanada de bacallau
 comments:
   show: false
   fediHost: toot.site
@@ -8,9 +9,11 @@ comments:
 date: 2021-01-15 20:00:00
 layout: single
 classes: wide
-#header: #imaxe a incluír na cabeceira. Móstrase a tamaño completo (coidado coa altura). DESACTIVADA POR DEFECTO.
-  #image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
-  #caption: "Crédito: [**Unsplash**-Tamara Gak](https://unsplash.com/photos/SQLOsc0HGDI)"
+header: # cociña en xeral
+  image: /assets/images/cociñaxeral.jpg
+  caption: "Crédito: [**Unsplash**-Icons8 Team](https://unsplash.com/photos/seDjj4dmC9s)"
+  image_description: "aparellos da cociña"
+  teaser: /assets/images/cociñaxeral.jpg #imaxe para a grella na lista
 navigation: true
 categories:
 - cociñeira
