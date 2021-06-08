@@ -30,7 +30,7 @@ tags: #as que correspondan
 ---
 
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-ZjPZM4u.png)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-ZjPZM4u.png)
 
 *molete feito a partir do meu lévedo*
 
@@ -48,7 +48,7 @@ Tamén se coñece como **Masa Nai**, pois dela tomaremos parte para
 elaborar o noso pan e gardaremos outra que seguiremos coidando e tomando
 parte para facer máis pan.
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-zlG9UrC.jpg)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-zlG9UrC.jpg)
 
 *na imaxe vense dous envases de vidro onde comecei o proceso de
 fermentación*
@@ -125,7 +125,7 @@ tortiñas... whatever, pero que saibas que **non tes por que tiralo**.
 
 ## O Pan
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-D6nXITM.jpg)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-D6nXITM.jpg)
 
 *A masa levedando*, óleo sobre tea. Mestre Flamenco (s.XVII)
 
@@ -145,7 +145,7 @@ de auga... hai moita variedade de receitas e posibilidades. Se a
 hidratación do pan non pasa de 65% ou así, é máis fácil de manexar, en
 principio.
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-FIq6Qlx.jpg)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-FIq6Qlx.jpg)
 
 *pan no forno*, jpg. Instagramer (s.XXI)
 
@@ -154,7 +154,7 @@ sairá despois a miga. Así que se non plegas ben, ainda que o fermento
 traballe estupendamente, a miga non será *"desa que esfreba"*, ou con
 ollada...
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-Zs4ew2D.jpg)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-Zs4ew2D.jpg)
 
 *o resultado final, xa enfriando*
 
@@ -171,11 +171,11 @@ proba que ten un tempo de fermentación medianamente longo, dunhas 8
 horas, e menos hidratado, pero igualmente con fariña todouso, branca.
 Porei fotos... se sae ben :P
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-7RuL2R1.jpg)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-7RuL2R1.jpg)
 
 *corte transversal, do pan que lle botei máis auga*
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-fmG8FOL.png)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-fmG8FOL.png)
 
 *o molete da primeira imaxe, moito máis do meu gusto, tamén cortado*
 
@@ -191,4 +191,4 @@ fediverso](https://red.confederac.io/@drupas).
     /
     [](https://toot.site/@xosem)[@xosem](https://fediverse.blog/@/xosem/ "xosem")
 
-![](../images/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-88px-CC-BY-SA_icon.svg.png)
+![](/assets/images/cultivaecome/2020-06-13-cocer-pan-na-casa-a-partir-de-levedo-artesan-88px-CC-BY-SA_icon.svg.png)

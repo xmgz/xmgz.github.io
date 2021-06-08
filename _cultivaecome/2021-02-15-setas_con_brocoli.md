@@ -1,5 +1,6 @@
 ---
 author: Cociñeira2
+title: Cogomelos con brócoli
 comments:
   show: false
   fediHost: toot.site
@@ -23,16 +24,16 @@ tags:
 - brocoli
 - verduras
 - queixo
-- cogumelos
+- cogomelos
 ---
 
-# Cogumelos con Brocoli
+# Cogomelos con Brocoli
 
-receita dunha gornición a base de cogumelos que acompaña ao brócoli (que boa falta lle fai 😅)
+receita dunha gornición a base de cogomelos que acompaña ao brócoli (que boa falta lle fai 😅)
 
 ## Ingredientes
 
-* cogumelos variados, ou dos que teñas a man/de oferta (un plato bo deles picados)
+* cogomelos variados, ou dos que teñas a man/de oferta (un plato bo deles picados)
 * tona do leite (brick de 200ml
 * queixo ([tetilla](http://queixotetilla.org/gl/), sansimón, semicurado, o galmesano ese...)
 * cebola
@@ -41,11 +42,11 @@ receita dunha gornición a base de cogumelos que acompaña ao brócoli (que boa 
 
 ## Preparación
 
-Están a venda surtidos de cogumelos variados, pero podes mercar un só tipo que a ti máis che guste (champiñons, [pleuroto](https://gl.wikipedia.org/wiki/Pleuroto), [shiitake](https://gl.wikipedia.org/wiki/Shiitake), ....)
+Están a venda surtidos de cogomelos variados, pero podes mercar un só tipo que a ti máis che guste (champiñons, [pleuroto](https://gl.wikipedia.org/wiki/Pleuroto), [shiitake](https://gl.wikipedia.org/wiki/Shiitake), ....)
 
 ![surtido de cogumelos](https://i.imgur.com/Qr2pvIa.jpg)
 
-*surtido de cogumelos*, este tipo de bandexas son moi xeitosas para comer varios distintos sen deixar unha fortuna en cogumelos "raros", que tampouco son moi bós de atopar, en xeral e en fresco.
+*surtido de cogomelos*, este tipo de bandexas son moi xeitosas para comer varios distintos sen deixar unha fortuna en cogomelos "raros", que tampouco son moi bós de atopar, en xeral e en fresco.
 
 Póchalas, xunto cunha pouquiña cebola en xuliana fina, picadas ou non según o teu parecer, nun pouco de aceite de oliva, a lume moderado. Dalle voltas, que non se queimen. Prefiro non darlle allo, porque o sabor é bastante intenso xa co queixo e máis o propio efecto da tona (a graxa dilúe os aromas dos cogomelos e aprécialos máis intensamente), pero se usas champiñón simplesmente, ou unha variedade pouco aromática, pódesllo botar. \[eu non botei pemento morrón nin nigunha outra verdura\]
 
@@ -89,6 +90,6 @@ Neste caso utilizamos brócoli, pero serve como acompañamento para outros alime
 
 ## Resultado
 
-![presentación](../assets/images/brocoli_cogumelos.jpg)
+![presentación](/assets/images/cultivaecome/brocoli_cogumelos.jpg)
 
 *A comer!*
