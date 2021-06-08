@@ -8,7 +8,7 @@ comments:
   fediid: 106158589675457766
 date: 2021-01-15 20:00:00
 layout: single
-classes: wide
+#classes: wide
 header: # cociña en xeral
   image: /assets/images/cociñaxeral.jpg
   caption: "Crédito: [**Unsplash**-Icons8 Team](https://unsplash.com/photos/seDjj4dmC9s)"

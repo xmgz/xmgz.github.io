@@ -7,7 +7,7 @@ comments:
   fediid: 106158589675457766
 date: 2021-02-15 20:00:00
 layout: single
-classes: wide
+#classes: wide
 navigation: true
 #header: #imaxe a incluír na cabeceira. Móstrase a tamaño completo (coidado coa altura). DESACTIVADA por defecto
   #image: /assets/images/tamara-gak-SQLOsc0HGDI-unsplash.jpg
@@ -89,6 +89,6 @@ Neste caso utilizamos brócoli, pero serve como acompañamento para outros alime
 
 ## Resultado
 
-![presentación](assets/images/brocoli_cogumelos.jpg)
+![presentación](../assets/images/brocoli_cogumelos.jpg)
 
 *A comer!*

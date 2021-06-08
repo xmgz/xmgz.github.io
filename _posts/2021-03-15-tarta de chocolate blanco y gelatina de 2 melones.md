@@ -8,7 +8,7 @@ comments:
   fediid: 106158589675457766
 date: 2021-03-15 20:00:00
 layout: single
-classes: wide
+#classes: wide
 header: # repostería
   image: /assets/images/reposteria.jpg
   caption: "Crédito: [**Unsplash**-Debby Hudson](https://unsplash.com/photos/O-bFIdjyDOg)"

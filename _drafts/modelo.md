@@ -13,7 +13,7 @@ comments:
   fediid: 106158589675457766
 date: 2021-02-01 20:00:00
 layout: single
-classes: wide
+#classes: wide
 
 ## imaxe de cabeceira e miniatura, ESCOLLER A QUE MELLOR VAIA AO ARTIGO. Só UNHA.
 #header: #imaxe a incluír na cabeceira. Móstrase a tamaño completo (coidado coa altura). DESACTIVADA POR DEFECTO.
