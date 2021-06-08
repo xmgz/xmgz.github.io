@@ -6,7 +6,7 @@ comments:
   fediHost: toot.site
   fediusername: xosem
   fediid: 106158589675457766
-date: 2021-02-01 20:00:00
+date: 2020-06-18 20:00:00
 layout: single
 #classes: wide
 #header: # repostería
@@ -26,6 +26,7 @@ tags: #as que correspondan
 - sobremesa
 - amorodos
 - queixo fresco
+- cereixas
 ---
 
 **Sobremesa moi saborosa e refrescante.**
@@ -42,9 +43,9 @@ tags: #as que correspondan
 -   100 gr. de queixo fresco (tipo filadelfia)
 -   200 gr. de marmelada de amorodos (caseira)
 -   50 gr. de azucre (ad libidum)
--   ornamento
+-   ornamento con cereixas
 
-[![](../images/thumbnails/2020-06-18-semifrio-de-amorodo-IMG_20200614_140757372_1.jpg)](../images/2020-06-18-semifrio-de-amorodo-IMG_20200614_140757372_1.jpg)  
+[![](../assets/images/cultivaecome/thumbnails/2020-06-18-semifrio-de-amorodo-IMG_20200614_140757372_1.jpg)](../assets/images/cultivaecome/2020-06-18-semifrio-de-amorodo-IMG_20200614_140757372_1.jpg)
 
 ## Preparación
 
@@ -59,4 +60,4 @@ farangullas de chocolate, ...
 
 **Meter no conxelador 10 minutos** antes de servir, non precisa máis.
 
-[![](../images/thumbnails/2020-06-18-semifrio-de-amorodo-signal-2020-05-16-164451.jpg)](../images/2020-06-18-semifrio-de-amorodo-signal-2020-05-16-164451.jpg)
+[![](../assets/images/cultivaecome/thumbnails/2020-06-18-semifrio-de-amorodo-signal-2020-05-16-164451.jpg)](../assets/images/cultivaecome/2020-06-18-semifrio-de-amorodo-signal-2020-05-16-164451.jpg)
