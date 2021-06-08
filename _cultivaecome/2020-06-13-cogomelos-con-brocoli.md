@@ -28,13 +28,7 @@ tags: #as que correspondan
 - queixo
 - xantar
 ---
-+++
-title = "Cogomelos con brócoli"
-slug = "2020-06-13-cogomelos-con-brocoli"
-published = 2020-06-13T14:53:00.001000+02:00
-author = "Maria R"
-tags = [ "cogomelos", "brócoli", "tona", "receita", "cociña", "queixo", "xantar",]
-+++
+
 receita dunha gornición a base de cogomelos que acompaña ao brócoli (que
 boa falta lle fai 😅)
 
@@ -56,7 +50,7 @@ tipo que a ti máis che guste (champiñons,
 [pleuroto](https://gl.wikipedia.org/wiki/Pleuroto),
 [shiitake](https://gl.wikipedia.org/wiki/Shiitake), ....)
 
-![](../images/2020-06-13-cogomelos-con-brocoli-Qr2pvIa.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-Qr2pvIa.jpg)
 
 *cogomelos, ao teu gusto*
 
@@ -72,14 +66,14 @@ graxa dilúe os aromas dos cogomelos e aprécialos máis intensamente),
 pero se usas champiñón simplesmente, ou unha variedade pouco aromática,
 pódesllo botar.
 
-![](../images/2020-06-13-cogomelos-con-brocoli-XITuLi6.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-XITuLi6.jpg)
 
 *salteado*
 
 Cando xa van estando, brandiñas, tenras (como que xa estarían listas
 para comer, ou case case) engadimos a tona (simmm!!).
 
-![](../images/2020-06-13-cogomelos-con-brocoli-hv5akqO.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-hv5akqO.jpg)
 
 *tona e queixo*
 
@@ -87,14 +81,14 @@ Que levante fervedura (seguimos co lume medio, e agora xa o baixamos un
 pouco máis, na miña inducción, ao 3-4) e botamos o queixo en anaquiños
 ou relado, para que se vaia derretendo.
 
-![](../images/2020-06-13-cogomelos-con-brocoli-HCzQJb4.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-HCzQJb4.jpg)
 
 *imos engadindo e remexendo*
 
 Se o queixo é forte de salgado, ten coidado co sal. Aquí vai un [San
 Simón da Costa](https://www.sansimondacosta.com), punto afumado fetén.
 
-![](../images/2020-06-13-cogomelos-con-brocoli-zzdGoYQ.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-zzdGoYQ.jpg)
 
 *finalmente, o queixo*
 
@@ -107,7 +101,7 @@ máis, fai grumos e xa non me parece tan apetitosa.
 
 Non hai que deixar que espese demasiado e faga grumos
 
-# 
+
 
 ## Brócoli
 
@@ -123,7 +117,7 @@ fritidos, ... you name it.
 
 ## Resultado
 
-![](../images/2020-06-13-cogomelos-con-brocoli-AAB2F3B1-D7CC-A275-287A-ABBE9DDE7060.jpg)
+![](../assets/images/cultivaecome/2020-06-13-cogomelos-con-brocoli-AAB2F3B1-D7CC-A275-287A-ABBE9DDE7060.jpg)
 
 *A comer!*
 
@@ -131,4 +125,5 @@ fritidos, ... you name it.
 
 orixinal de
 [](https://red.confederac.io/@drupas)[@drupas](https://red.confederac.io/@drupas "drupas")
+
 ![](../images/2020-06-13-cogomelos-con-brocoli-88px-CC-BY-SA_icon.svg.png)
