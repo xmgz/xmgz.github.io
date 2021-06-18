@@ -50,9 +50,12 @@ Copio e pego da fonte.
 [Ingredientes](https://lacocinadefrabisa.lavozdegalicia.es/easyrecipe-print/10152-0/)
 -------------------------------------------------------------------------------------
 
-*   **Base**
+**Base**
+
 *   150 g galletas + 60 g mantequilla
-*   **Relleno**
+
+**Relleno**
+
 *   500g. de nata 35% materia grasa (crema de leche)
 *   200 g. chocolate blanco
 *   160 g. [queso crema](https://lacocinadefrabisa.lavozdegalicia.es/como-hacer-queso-mascarpone-casero/)
@@ -60,14 +63,18 @@ Copio e pego da fonte.
 *   40 g azúcar
 *   1 sobre y medio de cuajada (o 6 hojas de gelatina (2 g c/u)
 *   8 fresas y alguna más para el emplatado
-*   **Gelatina de Mango**
+
+**Gelatina de Mango**
+
 *   1 mango en su punto justo de madurez
 *   50 g. de agua
 *   3 hojas de gelatina (2 gr c/u)
 *   60 ml de zumo limon
 *   80 g azúcar
 *   13 g maizena + 1 cucharada de agua
-*   **Filigranas de Chocolate blanco**
+
+**Filigranas de Chocolate blanco**
+
 *   50 g. de chocolate blanco
 
   
@@ -111,8 +118,6 @@ eu non fixen os seguintes pasos
   
   
 Tes fotos do proceso na fonte.
-  
-  
 
 ![imaxe da fonte](https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2015/07/tarta-chocolate-blanco-mango-fresas-frabisaacoplada-300x205.jpg)
 
