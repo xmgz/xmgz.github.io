@@ -85,7 +85,9 @@ Copio e pego da fonte.
 **Base de galletas**
 
 1.  Tritura las galletas y mézclalas con la mantequilla diluida o en pomada, forra con papel vegetal el molde y cubre el fondo. Puedes triturarlas en robot o introducirlas en una bolsa de congelación y pasar por encima un rodillo de amasar hasta que estén desechas. Refrigera hasta el momento de rellenar.
-2.  **El relleno.**
+
+**El relleno.**
+
 3.  Pon la nata en una olla a hervir con el azúcar.
 4.  Cuando alcance el punto de ebullición, apaga el fuego y añade el chocolate blanco, deja reposar un minuto y revuelve con unas varillas hasta integrar.
 5.  Vuelve a poner en el fuego, añade la leche y el queso crema, mezcla con unas varillas hasta que se integre y forme una crema, si fuese necesario tritura con la batidora.
